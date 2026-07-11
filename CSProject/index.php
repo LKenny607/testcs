@@ -1,3 +1,3 @@
 <?php
-header("Location: Student/student-dashboard.php");
+header("Location: Admin/login.php");
 exit();
